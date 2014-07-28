@@ -1,0 +1,42 @@
+3
+
+8 11
+abcDEFGhigg
+hEbkWalDork
+FtyAwaldORm
+FtsimrLqsrc
+byoArBeDeyv
+Klcbqwikomk
+strEBGadhrb
+yUiqlxcnBjf
+4
+Waldorf
+Bambi
+Betty
+Dagbert
+
+8 11
+abcDEFGhigg
+hEbkWalDork
+FtyAwalrdOR
+FtsimrLaqsr
+RahulBehDey
+Klcbqwiukom
+strEBGaldhr
+ytrebgadBjf
+3
+Rahul
+Bambi
+Dagbert
+
+8 11
+abcDEFGhigg
+hEbkWalDork
+FtyAwrlrdOR
+FtsimaLaqsr
+RahulhehDey
+Klcbquiukom
+strEBlaldhr
+ytrebgadBjf
+1
+Rahul
