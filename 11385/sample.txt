@@ -1,0 +1,40 @@
+13
+11
+13 2 89 377 8 3 233 34 144 21 1
+OH, LAME SAINT!
+15
+34 21 13 144 1597 3 987 610 8 5 89 2 377 2584 1
+O, DRACONIAN DEVIL!
+5
+1 2 3 5 8
+A
+5
+8 5 3 2 1
+A
+5
+8 5 3 2 1
+abcd
+5
+8 5 3 2 1
+ABCDEFG
+5
+5 4 3 2 1
+ABCDE
+5
+5 4 3 2 1
+A a B b C c D d E e
+1
+13
+ABCD
+1
+1836311903
+aaaaaaaaaabbbbbbbbbbcccccccccccDdddddddddddddddddddd
+1
+4
+ABC
+1
+2
+a
+1
+8
+A
