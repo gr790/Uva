@@ -1,0 +1,34 @@
+3
+
+abcdefghijklmnopqrstuvwxyz
+mlpoknjiuhbvgytfcxdreszwaq
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Cras et mauris vestibulum, sodales erat et, dignissim urna. 
+Donec ultrices dictum erat, id faucibus dui mollis auctor. 
+Quisque convallis luctus nunc vitae gravida. Nullam quis orci 
+eget ipsum ullamcorper consequat. Nam et bibendum elit. Proin 
+sit amet congue odio. Nunc sodales vitae ligula non eleifend. 
+Etiam iaculis ipsum at magna fermentum egestas. Proin quis 
+felis vehicula, 
+
+AeIoU
+mPjHi
+Tristique elit eget, feugiat nisi. Nullam tristique iaculis 
+purus, sed laoreet sapien vestibulum vel. Quisque at 
+consequat lectus. Sed posuere dignissim nulla, sit amet luctus 
+ligula scelerisque non. Suspendisse eros ligula, 
+ultricies in orci quis, tincidunt adipiscing neque. 
+Aenean volutpat nec ipsum eget aliquam. Suspendisse potenti.
+
+abcdefghijklmnopqrstuvwxyz
+zyxwvutsrqponmlkjihgfedcba
+Shar's Birthday:
+The birthday is October 6th, but the party will be Saturday,
+October 5.  It's my 24th birthday and the first one in some
+years for which I've been employed.  Plus, I have new clothes.
+So I have cause to celebrate.  More importantly, though,
+we've cleaned the house!  The address is 506-D Albert Street.
+Extra enticement for CS geeks:  there are several systems in
+the house, and the party is conveniently scheduled for 3 hours
+after the second CSC programming contest ends (not to mention,
+within easy walking distance)!
