@@ -1,0 +1,23 @@
+ant
+bee
+cat
+dog
+ewe
+fly
+gnu
+abcdefgh
+abcdefghij
+x
+x
+xxx
+y
+z
+#
+b e w
+b b e e w w
+t a n c u g d
+x
+x y
+x y z
+x x x
+#
