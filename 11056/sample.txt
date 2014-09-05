@@ -1,0 +1,128 @@
+3
+Schumacher : 1 min 23 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Senna : 0 min 55 sec 582 ms
+ 
+4
+Schumacher : 1 min 23 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Senna : 0 min 55 sec 582 ms
+Fangio : 1 min 03 sec 000 ms
+ 
+2
+BadPilot : 59 min 59 sec 999 ms
+ABadPilot : 59 min 59 sec 999 ms
+
+4
+Schumacher : 1 min 23 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Senna : 0 min 55 sec 582 ms
+Fangio : 1 min 03 sec 000 ms
+
+2
+BadPilot : 59 min 59 sec 999 ms
+ABadPilot : 59 min 59 sec 999 ms
+
+5
+M.Schumacher : 1 min 22 sec 172 ms
+R.Schumacher : 1 min 23 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Senna : 0 min 55 sec 582 ms
+Fangio : 1 min 03 sec 000 ms
+
+5
+M.Schumacher : 1 min 22 sec 172 ms
+R.Schumacher : 1 min 23 sec 172 ms
+team-1 : 2 min 12 sec 999 ms
+team-2 : 0 min 55 sec 582 ms
+team-3 : 1 min 03 sec 000 ms
+
+
+5
+M.Schumacher : 1 min 22 sec 172 ms
+R.Schumacher : 1 min 23 sec 172 ms
+team-1 : 2 min 12 sec 999 ms
+team-2 : 0 min 55 sec 582 ms
+team-3 : 1 min 03 sec 000 ms
+
+10
+M.Schumacher : 1 min 22 sec 172 ms
+R.Schumacher : 1 min 23 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Senna : 0 min 55 sec 582 ms
+Fangio : 1 min 03 sec 000 ms
+M.Schumacher : 1 min 22 sec 172 ms
+R.Schumacher : 1 min 23 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Senna : 0 min 55 sec 582 ms
+Fangio : 1 min 03 sec 000 ms
+
+10
+M.Schumacher : 1 min 22 sec 172 ms
+R.Schumacher : 1 min 23 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Senna : 0 min 55 sec 582 ms
+Fangio : 1 min 03 sec 000 ms
+M.Schumacher1 : 1 min 22 sec 172 ms
+R.Schumacher1 : 1 min 23 sec 172 ms
+Barrichello1 : 2 min 12 sec 999 ms
+Senna1 : 0 min 55 sec 582 ms
+Fangio1 : 1 min 03 sec 000 ms
+
+10
+M.Schumacher1 : 1 min 22 sec 172 ms
+R.Schumacher1 : 1 min 24 sec 172 ms
+Barrichello1 : 2 min 12 sec 999 ms
+Senna1 : 0 min 55 sec 582 ms
+Fangio1 : 1 min 03 sec 000 ms
+M.Schumacher2 : 1 min 23 sec 172 ms
+R.Schumacher2 : 1 min 25 sec 172 ms
+Barrichello2 : 2 min 13 sec 999 ms
+Senna2 : 0 min 56 sec 582 ms
+Fangio2 : 1 min 13 sec 000 ms
+
+10
+M.Schumacher1 : 1 min 22 sec 172 ms
+R.Schumacher1 : 1 min 24 sec 172 ms
+Barrichello1 : 2 min 12 sec 999 ms
+Senna1 : 0 min 55 sec 582 ms
+Fangio1 : 1 min 03 sec 000 ms
+M.Schumacher2 : 7 min 23 sec 172 ms
+R.Schumacher2 : 6 min 25 sec 172 ms
+Barrichello2 : 5 min 13 sec 999 ms
+Senna2 : 9 min 56 sec 582 ms
+Fangio2 : 8 min 13 sec 000 ms
+
+10
+M.Schumacher : 1 min 22 sec 172 ms
+R.Schumacher : 1 min 24 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Senna : 0 min 55 sec 582 ms
+Fangio : 1 min 03 sec 000 ms
+M.Schumacher : 7 min 23 sec 172 ms
+R.Schumacher : 6 min 25 sec 172 ms
+Barrichello : 5 min 13 sec 999 ms
+Senna : 9 min 56 sec 582 ms
+Fangio : 8 min 13 sec 000 ms
+
+10
+M.Schumacher : 1 min 22 sec 172 ms
+R.Schumacher : 1 min 22 sec 172 ms
+Barrichello : 2 min 12 sec 999 ms
+Sennao : 0 min 55 sec 582 ms
+SennAo : 0 min 55 sec 582 ms
+M.Schumacher : 7 min 23 sec 172 ms
+R.Schumacher : 6 min 25 sec 172 ms
+Barrichello : 5 min 13 sec 999 ms
+Senna : 9 min 56 sec 582 ms
+Fangio : 8 min 13 sec 000 ms
+
+3
+Aa : 1 min 23 sec 172 ms
+B : 1 min 23 sec 172 ms
+ab : 1 min 23 sec 172 ms
+
+3
+aa : 1 min 23 sec 172 ms
+b : 1 min 23 sec 172 ms
+Ab : 1 min 23 sec 172 ms
