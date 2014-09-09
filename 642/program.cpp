@@ -18,8 +18,9 @@ int main()
         dict[word]++;
     } 
     while(true) {
-      string unscr;
-      cin >> unscr;
+      char un[7];
+      scanf("%s\n", un);
+      string unscr(un); 
       if( unscr == "XXXXXX")
         break;
       sort(unscr.begin(), unscr.end());
@@ -28,13 +29,13 @@ int main()
       {
         if(dict[unscr])
         {
-          cout << unscr << endl;
+          printf("%s\n", unscr.c_str());
           found = true;
         }
       }while(next_permutation(unscr.begin(), unscr.end()));
       if(!found)
-        cout << "NOT A VALID WORD" <<endl;
-      cout << "******" << endl; /* end of list for 1 word */
+        puts("NOT A VALID WORD");
+      puts("******"); /* end of list for 1 word */
     }
     break;
   }
