@@ -1,0 +1,13 @@
+This problem can also be done as a variation of a very common problem called the LCS(Longest Common sub sequence) problem. 
+
+Let the input string be represented by a character array s1[0...n-1].
+
+1) Reverse the given sequence and store the reverse in another array say s2[0..n-1] which in essence is s1[n-1....0]
+
+2) LCS of the given sequence s1 and reverse sequence s2 will be the longest palindromic sequence.
+
+This solution is also a O(n^2) solution.
+
+Follow the following link for more information on this topic.
+
+http://stackoverflow.com/questions/4790522/how-to-find-longest-palindromic-subsequence
