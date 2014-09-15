@@ -1,0 +1,9 @@
+abcd
+acdb
+abcd
+dacb
+ff
+
+
+
+#
