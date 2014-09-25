@@ -1,0 +1,24 @@
+Summary
+
+Given a string S, determine the smallest number of allowed changes necessary to turn the string into a palindrome.
+The allowed changes are: adding a letter, removing a letter, and replacing a letter by another one.
+[edit] Explanation
+
+This is a traditional Dynamic Programming task.
+If S has less than two letters, it is trivially a palindrome. Otherwise, examine the first and the last letter of S. If they are equal, we may ignore them from now on, we only have to change the rest of S into a palindrome. If they are not equal, sooner or later we will have to fix this. As the changes are independent, we may do it now.
+What options do we have?
+Remove one of these letters.
+Change one of these letters to match the other one.
+(Note that adding new letters is never necessary. Instead of adding new letters to match existing ones we may simply delete those existing letters that didn't have a match. The remaining two operations are necessary, consider the strings abcddcb and abcddcbe.)
+After each of these changes, we are left with a shorter string and the same task . change it into a palindrome. Moreover, we may note that the shorter string is always some (continuous) substring of S. Now all we have to do is to find an optimal solution for each of these shorter strings, and pick the best of these solutions.
+This brings us to the idea of the solution. Let B(i,j) be the best solution for the substring S_{i\ldots j}. From the observations above we get: 
+B( i, j ) = 
+            0, j - i < 2 
+            B( i + 1, j - 1 ), if S[i] = S[j]
+            1 + min( B(i+1,j), B(i,j-1), B(i+1,j-1)), otherwise
+
+The values B(i,j) can be either computed using a recursive function with memoization, or we may compute them "bottom-up", starting with shortest substrings.
+
+Follow the link.
+
+http://www.algorithmist.com/index.php/UVa_10739
