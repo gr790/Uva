@@ -1,0 +1,10 @@
+Given n bills (or coins) of certain values. Select a subset of them so that the total value is at least P and is minimum.
+
+Catch in this problem is Bill could be of any value, which is mentioned in input.
+you have to find the Minimum value close to seller amount + Minimum number of bills needed to do that.
+
+Use Dynamic Programming to determine whether there is a way to make a value V from the n bills.
+Let dp[X] be the number of bills needed to make a value of X.
+To fill in this DP table, first set dp[0] = 0 and set the rest to INFINITY.
+For each bill with value C, update dp[v+C] = min(dp[v+C], dp[v]+1) for all value v where dp[v] is not INFINITY.
+The answer is X and dp[X], where X >= P and dp[X] is not INFINITY and X is minimum. To find such X, a simple iteration will do.
