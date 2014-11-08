@@ -1,0 +1,65 @@
+2
+
+Red Alder
+Ash
+Aspen
+Basswood
+Ash
+Beech
+Yellow Birch
+Ash
+Cherry
+Cottonwood
+Ash
+Cypress
+Red Elm
+Gum
+Hackberry
+White Oak
+Hickory
+Pecan
+Hard Maple
+White Oak
+Soft Maple
+Red Oak
+Red Oak
+White Oak
+Poplan
+Sassafras
+Sycamore
+Black Walnut
+Willow
+
+Red Alder
+Ash
+Red Oak
+Aspen
+Basswood
+Ash
+Red Oak
+Beech
+Yellow Birch
+Ash
+Red Oak
+Cherry
+Cottonwood
+Ash
+Red Oak
+Cypress
+Red Elm
+Gum
+Hackberry
+White Oak
+Hickory
+Pecan
+Hard Maple
+White Oak
+Soft Maple
+Red Oak
+Red Oak
+White Oak
+Poplan
+Sassafras
+Sycamore
+Black Walnut
+Willow
