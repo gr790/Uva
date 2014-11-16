@@ -1,0 +1,6 @@
+5
+A + 3
+AAA + BBB
+A - 3
+AAA - BBB
+3 - A

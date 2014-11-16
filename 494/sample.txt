@@ -1,0 +1,20 @@
+Meep Meep!
+I tot I taw a putty tat.
+I did! I did! I did taw a putty tat.
+Shsssssssssh ... I am hunting wabbits. Heh Heh Heh Heh ...
+Input to your program will consist of a series of lines, each line containing multiple words (at least one). A ``word'' is defined as a consecutive sequence of letters (upper and/or lower case).
+,a
+Your program should output a word count for each line of input. Each word count should be printed on a separate line.
+ab      bs      cd
+abc...sadsa
+a
+hi mate!
+``Woooooo, you scwewy wabbit!''
+abcd-efg
+mom's
+hello!worlds
+hello~world
+hello@world
+hello#world
+hello$world
+hello123world
