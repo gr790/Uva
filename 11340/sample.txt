@@ -1,0 +1,18 @@
+1
+8
+a 3
+W 10
+A 100
+, 10
+  10
+k 7
+. 3
+I 13
+7
+ACM International Collegiate Programming Contest (abbreviated      Aa   
+as ACM-ICPC or just ICPC) is an annual multi-tiered competition       
+among the universities of the world. The ICPC challenges students      
+to set ever higher standards of excellence for themselves  
+through competition that rewards team work, problem analysis,    
+and rapid software development.
+From Wikipedia.
