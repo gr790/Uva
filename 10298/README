@@ -1,0 +1,11 @@
+Hmm, isn't it obvious?
+
+Consider string t obtained from s by a cyclic shift of s by k characters right. How to determine for which values of k, the strings t and s are equal? By definition of equality, it's when s[i] = t[i] = s[(i+k)%n], for 0<=i<n. You can get rid of that modulus by simply concatenating s with itself, and it becomes a regular substring search problem, solved by KMP.
+
+And the smallest such cyclic shift k is exactly equal to length of smallest periodic prefix of s. Number of repetitions of this prefix (which is what the problem asks for) is just length of s divided by length of this prefix.
+
+
+The pattern is string s - the input string.
+The string to search the pattern in is s*s, where * is concatenation (as in problem statement).
+
+If s occurs at position k (1-based) in s*s, then the answer is length(s) / k.
