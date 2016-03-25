@@ -48,3 +48,83 @@ Followed the link.
 
 http://www.programering.com/a/MjMwMTMwATU.html
 http://codeforces.com/blog/entry/8798
+
+It can be done in O(NlogN).
+Lets see how.
+I wont give you the longest sequence ,I will justtell you the length of longest possible sub-sequence
+
+say we need to find LIS of the sequence 
+
+2 4 3 6 7 3 8 9 11 10
+
+
+we process our array a[] left to right and do either of these two rules:
+1)stretch current max length if a[i]>last element in sequence
+2)get minimum position i such that x>=a[i] and replace a[i] by x
+
+
+when the first element a[0] =2 comes we have no option by to stretch(rule 1) the zero length array
+//   seq[]=   2
+
+when the second element a[1] =4 comes 4 is grater than current rightmost element of seq[] so stretch seq[](rule 1 again)
+//   seq[]=   2 4
+
+when the next element a[2] =3 comes 3 is not greater than 4 so now rule 1 is not applicable
+so we have to find the least number which is atleast eqaul to or greater than 4 and replace it with 3
+Thus we get:
+//   seq[]=   2 3
+
+Again 6 is greater than 3 so rule 1 again
+//   seq[]=   2 3 6
+
+Again 7>6  so rule 1 again
+//   seq[]=   2 3 6 7
+
+Now 3 not grater than 7 so rule 2 again.note 3 already exits so it goes and replaces that 3.
+It doesnt stretch as we need strictly increasing sequence so it cant have two 3s
+So apparently seq[] looks unchanged
+//   seq[]=   2 3 6 7
+
+Again 8>7 so rule 1 again
+//   seq[]=   2 3 6 7 8
+
+Again 9>8 so rule 1 again
+//   seq[]=   2 3 6 7 8 9
+
+
+Again 11>9 so rule 1 again
+//   seq[]=   2 3 6 7 8 9 11
+
+10<11 so rule 2
+//   seq[]=   2 3 6 7 8 9 10
+
+Note 
+
+Length of this array seq[] at each stage is the maximum length found so far
+but the sequence currently cached at any point is not nececerraily the  sequence of maximum length.
+
+
+[code]
+int a[11]={2, 4, 3, 6, 7, 3, 8, 9, 11, 10};
+vector< int > sq;
+vector <int >:: iterator it;
+ 
+int main() 
+{
+       sq.push_back(a[0]);
+       for(int i=1;i<10;i++)
+       {
+         if(a[i] >  *(sq.rbegin()))
+         {
+            sq.push_back(a[i]);
+         }
+         else
+         {
+            it = lower_bound(sq.begin(),sq.end(),a[i]);
+            *it=a[i];
+         }
+         for(int j=0;j<sq.size();j++)cout<<sq[j]<<" ";cout<<endl;
+       }
+       cout<<sq.size()<<endl;
+}
+[/code]
